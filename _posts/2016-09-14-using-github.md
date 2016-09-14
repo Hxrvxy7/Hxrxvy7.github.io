@@ -2,10 +2,9 @@
 title: Lesson 1: How to use Github
 layout: post
 author: harvey.lewis
-permalink: /lesson-1:-how-to-use-github/
-source-id: 1ylIcQbNU1l4cDnzp3S4jSVv1POzIzqxF3LBNjN3awFw
 published: true
 ---
+
 <table>
   <tr>
     <td>Title</td>
