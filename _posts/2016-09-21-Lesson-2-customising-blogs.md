@@ -2,7 +2,7 @@
 title: Lesson 2: customising blogs
 layout: post
 author: harvey.lewis
-permalink: /lesson-2:-customising-blogs/
+permalink: /lesson-2-customising-blogs/
 source-id: 1k2AL-VAQ6vviFD2AZ-JkFQvWsZu54ailzy0KlO_hCK4
 published: true
 ---
