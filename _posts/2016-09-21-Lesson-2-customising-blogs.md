@@ -1,5 +1,5 @@
 ---
-title: Lesson 2: customising blogs
+title: Lesson- customising blogs
 layout: post
 author: harvey.lewis
 permalink: /lesson-2-customising-blogs/
