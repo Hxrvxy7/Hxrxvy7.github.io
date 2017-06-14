@@ -19,7 +19,8 @@ html {
 
 body {
 	background-image: url("http://wallpapercave.com/wp/6DDu8dv.jpg");
-	background: fixed;
+	background-repeat: no-repeat;
+   	background-attachment: fixed;
 	font: 18px/1.4 $helvetica;
   	color: #FFFFFF;
 
